@@ -1,3 +1,3 @@
 import { Lusitana } from 'next/font/google';
 
-export const lusita = Lusitana({weight: "400", preload: false, subsets:["latin"]});
+export const lusitana = Lusitana({weight: "400", preload: false, subsets:["latin"]});
